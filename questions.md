@@ -9,7 +9,7 @@ This declaration defines the document type and version of HTML (HTML5 here). \
 `<html>:`
 This is the root element of the HTML document.\
 `<head>:`
-Contains metadata about the document, such as the title, character encoding, external stylesheets, and scripts.\
+Contains metadata about the document.\
 `<title>:`
 Specifies the title of the webpage, which appears in the browser tab.\
 `<body>:`
